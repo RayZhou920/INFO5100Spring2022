@@ -1,4 +1,4 @@
-package com.company;
+package com.Question1and2;
 
 public class Main {
 

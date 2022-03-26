@@ -1,4 +1,4 @@
-package com.company;
+package com.Question1and2;
 
 // Abstract class - Animal
 abstract class Animal {

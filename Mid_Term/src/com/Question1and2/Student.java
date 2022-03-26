@@ -1,4 +1,4 @@
-package com.company;
+package com.Question1and2;
 
 // Question 1: Deep copy and shallow copy
 public class Student {
