@@ -26,5 +26,10 @@ public class Main {
         }
 
         System.out.println(bq.isEmpty());
+        try {
+            System.out.println(bq.peek());
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
     }
 }
