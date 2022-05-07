@@ -136,6 +136,6 @@ public class Main {
             queue.add(i);
             while (queue.size() > k) queue.poll();
         }
-        return queue.peek();
+        return queue.isEmpty() ? 0 : queue.peek();
     }
 }
